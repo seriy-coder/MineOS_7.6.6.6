@@ -1,1 +1,1 @@
-Репозиторий MineOS и вспомогательного софта под OpenComputers.
+MineOS v.7.6.6.6 Release Notes

@@ -1,7 +1,7 @@
 local background, foreground, logoColor = 0xDDDDDD, 0x999999, 0x444444
 
 do
-  _G._OSVERSION = "OpenOS 1.6"
+  _G._OSVERSION = "OpenOS 7.6.6.6"
 
   local component = component
   local computer = computer
