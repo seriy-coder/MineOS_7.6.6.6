@@ -1,16 +1,29 @@
-Carefully read the terms of this license agreement
-before installing this operating system.
+LICENSE AGREEMENT.
 
-By clicking "Accept", you agree with the following:
-  ● Some of your personal data (logins, passwords to
-    Pastebin.com or VK.com) can be read by other people and
-    used for personal gain.
-  ● You must not distribute this OS, as well as its
-    individual components
-  ● You accept the fact that the author of this OS
-    is not legally responsible for any physical or
-    mental injury that you may get by using this OS.
-    
-If you disagree with any term above, you must press
-the key combination Ctrl + Alt + C to quit
-Setup program.
+Please read the following license agreement before
+using MineOS. Using MineOS means
+that you accept the terms of this license agreement.
+
+MineOS may be distributed free of charge, provided that the
+unchanged distribution without the express written permission of
+the copyright holder. You may not modify, rent,
+rent, sell and modify MineOS. any such
+unauthorized use of the game and cause an immediate
+automatic termination of this license, and may be
+subject to prosecution under the criminal and / or civil
+legislation.
+
+Limitation of warranty
+This software and the accompanying files are provided
+such "as is" and without warranties or other manual
+warranties, expressed or implied. warranties of merchantability
+value or suitability is not given for a particular purpose.
+The user assumes the entire risk associated with the
+using MineOS. The author is not liable for any
+any whatever the consequences, direct and indirect, special
+and other damage caused by this software (including,
+without limitation, damages from loss of business profits, interruption
+business, loss of business information or other financial damage).
+
+All copyrights are owned solely by MineOS
+MineMicroCorp.
